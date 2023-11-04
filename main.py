@@ -76,9 +76,20 @@ prompts = [
     "Luminous Desert Oasis: Within a seemingly endless desert, a hidden oasis thrives with giant, bioluminescent plants. The story might focus on travelers who seek refuge in this radiant sanctuary.",
     "Mirror Lake of Reflection: In a serene lake, the waters reflect the thoughts, memories, and innermost desires of those who gaze into it. Characters could journey to this reflective lake to confront their inner selves and make profound discoveries.",
     "Dimensional Art Gallery: A mysterious art gallery where each painting or sculpture represents a different dimension. The narrative may follow visitors as they step into these works of art, exploring the worlds they contain.",
-    "Terracotta Army Guardians: A vast underground chamber houses an army of animated terracotta soldiers tasked with guarding a hidden ancient treasure. The story could focus on those who seek to protect or pilfer this legendary hoard."
+    "Terracotta Army Guardians: A vast underground chamber houses an army of animated terracotta soldiers tasked with guarding a hidden ancient treasure. The story could focus on those who seek to protect or pilfer this legendary hoard.",
     "Ethereal Ice Palace: A palace constructed from enchanted ice with shifting crystalline patterns. Characters could explore this otherworldly structure and uncover its enchantments and secrets.",
-    
+    "The Whispering Forest: In a mystical forest, the trees and creatures communicate through whispers carried by the wind. The story could follow characters as they navigate the forest and learn its secrets.",
+    "Floating Island of Knowledge: High above the world, a floating island is a repository of knowledge, guarded by ancient scholars and enigmatic guardians. The narrative may revolve around those who seek access to its wisdom.",
+    "Quantum Cityscape: A city where quantum phenomena govern daily life, allowing for teleportation, time manipulation, and other reality-bending powers. Characters could explore the city's quantum mysteries and challenges.",
+    "Bazaar of Dreams: In a bustling marketplace, vendors trade in dreams and fantasies. The story might focus on characters who buy, sell, or chase their own dreams in this fantastical bazaar.",
+    "Crystalized Volcano Caverns: Deep within an active volcano, caverns are adorned with luminous crystals that absorb and channel the volcano's energy. The narrative could revolve around those who harness this power.",
+    "Celestial Lighthouse Keepers: A network of lighthouses in the sky guides celestial travelers through the cosmos. The story might follow the keepers of these lighthouses as they ensure safe passage among the stars.",
+    "The Canopy of Lost Civilizations: In a dense treetop canopy, remnants of long-lost civilizations are hidden. Characters could explore these ancient ruins and unravel the mysteries of the arboreal world.",
+    "Elemental Clockwork City: A city powered by intricate clockwork mechanisms and harnessed elemental forces. The narrative may follow residents and engineers who balance the elements to maintain the city's functionality.",
+    "Museum of Forgotten Memories: A mysterious museum where visitors can explore the memories of the past. The story could focus on those who visit the museum and the emotions and revelations it stirs.",
+    "Oracle's Tower: Perched on a mountaintop, a tower houses an oracle who can glimpse the future. Characters may seek the oracle's wisdom, navigate the tower's challenges, or uncover the truth behind the predictions.",
+    "Living Ecosystem Spaceship: A massive spaceship functions as a self-sustaining ecosystem, carrying its inhabitants through the cosmos. The narrative might explore life aboard this organic spaceship and the challenges it presents.",
+    "The Language of Elements: In a world where words carry elemental power, characters learn to wield the elements through language. The story could revolve around the journey of mastering this unique form of communication.",
 ]
 
 
