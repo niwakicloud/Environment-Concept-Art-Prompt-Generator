@@ -66,6 +66,19 @@ prompts = [
     "Time-Looped Metropolis: A sprawling city where time loops and replays specific days or moments in history. The narrative might explore the impact of this temporal anomaly on the city's inhabitants and the search for a way to break the cycle.",
     "Psychic Carnival: A mysterious traveling carnival where psychic abilities are showcased. The story could center around the lives of the performers and the secrets they hold in this otherworldly carnival.",
     "Monumental Graveyard of Giants: In a forgotten desert, enormous statues of long-extinct giants lay buried beneath the sands. The narrative may follow archaeologists and treasure hunters who seek to unearth the secrets and treasures hidden within this colossal graveyard.",
+    "Village of Color-Changing Leaves: A hidden village nestled within an ancient forest, where the leaves of trees change color based on the emotions and thoughts of the inhabitants. The story could revolve around the community's emotional harmony and struggles.",
+    "Floating Marketplace of Elemental Crystals: In a skyborne city, a bustling marketplace features stalls of elemental crystals, each harnessed for various purposes. The narrative might follow traders, adventurers, and individuals who interact with these magical crystals.",
+    "Symphonic Caves of Resonance: A series of underground caves known for their unique resonating properties. Sound and music create physical effects within these caves, and the story may follow musicians and explorers who harness this resonance.",
+    "Crystal Petting Zoo: In a hidden valley, a unique zoo features creatures made entirely of colorful and translucent crystals. The narrative could follow the caretakers of these crystal beings and their extraordinary interactions with visitors.",
+    "Aerial Silk City: Suspended high above the ground, a city is interconnected by intricate networks of silk bridges, pathways, and structures. The characters may navigate this ethereal environment and its challenges.",
+    "Underwater Clockwork Metropolis: In a deep-sea metropolis, intricate clockwork mechanisms power the city's functions. The story might revolve around characters who live and work in this world of underwater engineering.",
+    "Alchemy Academy of Living Elements: In an isolated academy, students learn the art of alchemy, specializing in the transformation of elements. The narrative could follow the journeys of alchemical apprentices as they unlock the secrets of their craft.",
+    "Luminous Desert Oasis: Within a seemingly endless desert, a hidden oasis thrives with giant, bioluminescent plants. The story might focus on travelers who seek refuge in this radiant sanctuary.",
+    "Mirror Lake of Reflection: In a serene lake, the waters reflect the thoughts, memories, and innermost desires of those who gaze into it. Characters could journey to this reflective lake to confront their inner selves and make profound discoveries.",
+    "Dimensional Art Gallery: A mysterious art gallery where each painting or sculpture represents a different dimension. The narrative may follow visitors as they step into these works of art, exploring the worlds they contain.",
+    "Terracotta Army Guardians: A vast underground chamber houses an army of animated terracotta soldiers tasked with guarding a hidden ancient treasure. The story could focus on those who seek to protect or pilfer this legendary hoard."
+    "Ethereal Ice Palace: A palace constructed from enchanted ice with shifting crystalline patterns. Characters could explore this otherworldly structure and uncover its enchantments and secrets.",
+    
 ]
 
 
